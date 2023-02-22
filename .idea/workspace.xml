@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7cd323d-311e-4d88-b27d-79de574d0e21" name="Changes" comment="" />
+    <list default="true" id="c7cd323d-311e-4d88-b27d-79de574d0e21" name="Changes" comment="Merge remote-tracking branch 'origin/CR1' into CR1&#10;&#10;# Conflicts:&#10;#&#9;src/Main.java">
+      <change afterPath="$PROJECT_DIR$/src/second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M6Qr4QuO9PHBt70m6DOj0APmcH" />
   <component name="ProjectViewState">
@@ -16,7 +35,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,10 +50,42 @@
       <option name="presentableId" value="Default" />
       <updated>1677085748265</updated>
       <workItem from="1677085749947" duration="3000" />
+      <workItem from="1677086391913" duration="453000" />
     </task>
+    <task id="LOCAL-00001" summary="first repo">
+      <created>1677086649934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677086649935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/CR1' into CR1&#10;&#10;# Conflicts:&#10;#&#9;src/Main.java">
+      <created>1677086700628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677086700628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first repo" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/CR1' into CR1&#10;&#10;# Conflicts:&#10;#&#9;src/Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/CR1' into CR1&#10;&#10;# Conflicts:&#10;#&#9;src/Main.java" />
   </component>
 </project>
